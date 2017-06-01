@@ -5,3 +5,4 @@ zmiana 4 dodanie main.txt
 dodanie pliku index- test nowego brancha 
 zmiana 5 - konflikt merga 1
 zmiana 5 - konflikt merga chuj costam
+zmiana git1 12:44
