@@ -6,3 +6,5 @@ dodanie pliku index- test nowego brancha
 zmiana 5 - konflikt merga 1
 zmiana 5 - konflikt merga chuj costam
 zmiana git1 12:44
+zmiana git 12:45 dodanie wiersza
+
