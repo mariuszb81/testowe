@@ -2,3 +2,4 @@ zmiana 1
 zmiana 2
 dupa dupa zmiana 3
 zmiana 4 dodanie main.txt
+dodanie pliku index- test nowego brancha 
